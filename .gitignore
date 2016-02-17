@@ -26,4 +26,5 @@ build/
 .test
 /.apt_generated/
 .factorypath
+/config/
 
